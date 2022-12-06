@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0
+}
+
+body{
+    background: hsl(212, 45%, 89%);
+}
+
+main{
+    background: hsl(0, 0%, 100%);
+    margin: 40px auto 0 auto;
+    width: 28%;
+    height: 600px;
+    border-radius: 25px;
+}
+
+/* .QR{
+
+} */
+
+.QR img{
+    width: 350px;
+    height: 400px;
+    margin: 20px 0 10px 15px;
+    border-radius: 20px;
+}
+
+.text p{
+    text-align: center;
+    font-size: 15px;
+}
+
+
+#p_one{
+    margin: 0 0 0 0;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+
+#p_two{
+    margin: 10px 0 0 0;
+    font-weight: 400;
+    color: hsl(212, 45%, 89%);
+}
